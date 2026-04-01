@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 Computer Science Student <br>⚙️ Software Development<br>🤖 Artificial Intelligence <br>👨‍💼 Autonomous technology
+🧑‍💻 Computer Science Student <br>⚙️ Software Development<br>🦾 Artificial Intelligence <br>👨‍💼 Autonomous technology <br> 🤖 Experiential technology
 
 
 ## 🌐 Socials:
